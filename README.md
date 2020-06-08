@@ -3,5 +3,5 @@
 
 * Prajwal - FrontEnd Development
 * Vignesh - FrontEnd Development
-* Swetha - BackEnd Development
+* Swetha S V- BackEnd Development
 * Rajkumar R - BackEnd Development
