@@ -1,5 +1,5 @@
--># Colors HRMS<-
-## *<span style="color: blue;">Team 16</ span>* 
+->Colors HRMS<-
+<span style="color: blue;">Team 16</span>
 
 * Prajwal - FrontEnd Development
 * Vignesh - FrontEnd Development
