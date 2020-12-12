@@ -1,7 +1,10 @@
-# Colors HRMS
-## <span style="color:red">Team 16</span>
+# Colors HR Management Application
 
-* Prajwal - FrontEnd Development
-* Vignesh - FrontEnd Development
-* Swetha S V- BackEnd Development
-* Rajkumar R - BackEnd Development
+### Watch the preview below
+![Demo GIF](https://github.com/KavachNetworks/Colors_HRMS_Docs/blob/master/Webp.net-gifmaker.gif)
+
+Download Complete Backend - [click here](https://github.com/KavachNetworks/Colors_HRMS_BE)
+
+Download Complete Frontend - [click here](https://github.com/KavachNetworks/Colors_HRMS_FE)
+
+## __**Complete Installation is given in the respective links**__
